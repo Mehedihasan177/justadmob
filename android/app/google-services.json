@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "364677070791",
+    "project_id": "admob-da150",
+    "storage_bucket": "admob-da150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364677070791:android:3ed5690a42ca1dbf95a3e2",
+        "android_client_info": {
+          "package_name": "com.admob.app123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364677070791-9c2itsrg3e5q8agvo6utuvl53q62prkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2k94893CTQL7wFyePKpYeGUbnvUJwjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364677070791-9c2itsrg3e5q8agvo6utuvl53q62prkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4581959623668364~7606907257"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364677070791:android:91d9aa3ac2c8128195a3e2",
+        "android_client_info": {
+          "package_name": "scready.scannflutter_ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364677070791-9c2itsrg3e5q8agvo6utuvl53q62prkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2k94893CTQL7wFyePKpYeGUbnvUJwjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364677070791-9c2itsrg3e5q8agvo6utuvl53q62prkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
